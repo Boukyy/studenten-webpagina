@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Over ons</title>
+<link rel="stylesheet" href="stijl.css">
+</head>
+<body>
+<header>
+<h1>Over ons team</h1>
+<nav>
+<a href="index.html">Home</a>
+<a href="about.html">Over ons</a>
+</nav>
+</header>
+ 
+  <main>
+<section>
+<h2>Wie zijn wij?</h2>
+<p>Wij zijn een team van studenten dat samen een website bouwt met GitHub.</p>
+</section>
+ 
+    <section>
+<h2>Teamleden</h2>
+<ul>
+<li>Adam – gitmaster</li>
+<li>simkaart63 – vormgeving en about-pagina</li>
+<li>posluhnik</li>
+<li>Nikita1488ua</li>
+</ul>
+</section>
+</main>
+ 
+  <footer>
+<p>&copy; 2026 Studententeam</p>
+</footer>
+</body>
+</html>
+ 
